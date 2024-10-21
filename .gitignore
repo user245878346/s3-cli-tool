@@ -1,0 +1,10 @@
+# Ignoruj plik z danymi uwierzytelniającymi
+.env
+
+# Ignoruj pliki pycache
+__pycache__/
+*.pyc
+
+# Ignoruj pliki tymczasowe
+*.log
+*.tmp
